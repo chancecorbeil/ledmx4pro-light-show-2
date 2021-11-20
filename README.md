@@ -1,4 +1,4 @@
-# LeDMX4 PRO Light Show 1
+# LeDMX4 PRO Light Show 2
 
 A light show for a LeDMX4 PRO controller.
 
