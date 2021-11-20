@@ -1,0 +1,1 @@
+LED seed: 17, leif: 1, Duration: 2.45 minutes, light speed: 0.33

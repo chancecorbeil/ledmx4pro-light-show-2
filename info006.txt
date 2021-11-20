@@ -1,0 +1,1 @@
+led seed: 18, leif: 4, duration: 10 minutes, light speed: 0.48

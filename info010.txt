@@ -1,0 +1,1 @@
+led seed: 16, leif: 6, duration: 10 minutes, light speed:0.35
